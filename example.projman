@@ -1,0 +1,11 @@
+{
+    "python_version": "3.7",
+    "name": "example",
+    "dependencies": [
+        "redis"],
+    "commands": {
+        "run": "python3 example.py",
+        "test" : "python3 tests/example.py"
+    },
+    "venv": "/home/doze/example-venv"
+}
