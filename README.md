@@ -63,3 +63,10 @@ the specified python version, installing every defined dependency
     - ___--install___ : install project dependencies
 
 - __run__ : runs a command  
+
+## TODO
+
+- [ ] Finish basic commands implementation
+- [ ] Activate virtualenv permanently inside the current shell
+
+
